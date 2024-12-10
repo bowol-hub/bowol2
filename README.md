@@ -483,7 +483,7 @@ http://61.221.215.25:8800/hls/41/index.m3u8
 http://210.210.155.37/x6bnqe/s/s182/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="TAIWAN", 民視
-http://udinlaw.sytes.net:5000/litv/4gtv-4gtv002
+http://litv.zapi.us.kg/?id=4gtv-4gtv002
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視台灣台.png" group-title="TAIWAN", 民視台灣台 
 http://litv.zapi.us.kg/?id=4gtv-4gtv001
@@ -504,23 +504,8 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv004
 #http://47.83.8.156:5008/proxy?url=http://47.83.8.156:5000/litv/4gtv-4gtv004
 
 
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/中視.png" group-title="TAIWAN", 中視
-http://udinlaw.sytes.net:5000/litv/4gtv-4gtv040
 
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/中視新聞台.png" group-title="TAIWAN", 中視新聞台
-http://udinlaw.sytes.net:5000/litv/4gtv-4gtv074
 
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/中視經典台.png" group-title="TAIWAN", 中視經典台
-http://udinlaw.sytes.net:5000/litv/4gtv-4gtv080
-
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/中視菁采台.png" group-title="TAIWAN", 中視菁采台
-http://udinlaw.sytes.net:5000/litv/4gtv-4gtv064
-
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/中天新聞台.png" group-title="TAIWAN", 中天新聞台
-http://udinlaw.sytes.net:5000/litv/4gtv-4gtv009
-
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/中天亞洲台.png" group-title="TAIWAN", 中天亞洲台
-http://udinlaw.sytes.net:5000/litv/4gtv-4gtv109
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/phoenix_infonews.png" group-title="CHINA",Phoenix News
 http://iptv.kilas7.com:80/kaukia/asdfrewq/35
