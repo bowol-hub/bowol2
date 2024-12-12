@@ -1234,11 +1234,11 @@ https://webhdrunns.mizhls.ru/lb/premium318/index.m3u8|referer=https://lewblivehd
 
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast1.jpg" group-title="SPORTS",Taiwan Sports Billiard 1
-http://udinlaw.sytes.net:5000/litv/litv-longturn10
+https://litv.zapi.us.kg/?id=litv-longturn10
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast1.jpg" group-title="SPORTS",Taiwan Sports Billiard 2
-http://udinlaw.sytes.net:5000/litv/litv-longturn13
+https://litv.zapi.us.kg/?id=litv-longturn13
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast4.jpg" group-title="SPORTS",Taiwan Sports Golf
-http://udinlaw.sytes.net:5000/litv/litv-longturn05
+https://litv.zapi.us.kg/?id=litv-longturn05
 
 
 
