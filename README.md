@@ -1338,5 +1338,18 @@ https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://www.dens.tv/images/channel-logo/58.jpg", tvN Movies HD
 http://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_Movies_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/TVBS_News.png/revision/latest/scale-to-width-down/405?cb=20230413120549&path-prefix=vi", TVBS News 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4439ed36468445ea780f1eba44e1d05:e40e4ecb1caadc90c92ce975264c99d8
+https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSNews/mpd/TVBSNews.mpd
 
-#EXTM3U billed-msg="LAST UPDATE 14 DEC 2024 23.00 WIB"
+
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/TVBS_Asia_logo_2017.png/220px-TVBS_Asia_logo_2017.png", TVBS Asia 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f530cf9ab2244fdb935da69d93614188:ccd52f487ef5c2c29869a5b6899397bb
+https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
+
+
+#EXTM3U billed-msg="LAST UPDATE 15 DEC 2024 16.00 WIB"
