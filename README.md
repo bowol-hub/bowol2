@@ -30,6 +30,8 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png" group-title="BERITA",Metro TV
 https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
+#EXTINF:-1 group-title="BERITA" tvg-logo="https://www.dens.tv/images/channel-logo/6.jpg",Metro TV SD
+http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png",Kompas TV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png?v=1.1.1.1" group-title="BERITA", KompasTV.
@@ -1305,8 +1307,10 @@ https://webhdrunns.mizhls.ru/lb/premium318/index.m3u8|referer=https://lewblivehd
 https://litv.zapi.us.kg/?id=litv-longturn10
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast1.jpg" group-title="SPORTS",Taiwan Sports Billiard 2
 https://litv.zapi.us.kg/?id=litv-longturn13
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast4.jpg" group-title="SPORTS",Taiwan Sports Golf
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast4.jpg" group-title="SPORTS",Golf  Sports Taiwan
 https://litv.zapi.us.kg/?id=litv-longturn05
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast1.jpg" group-title="SPORTS",Golf  Sports Taiwan 2
+https://litv.zapi.us.kg/?id=litv-longturn06
 
 
 
@@ -1352,4 +1356,4 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSNews/mpd/TVBSNews.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
 
 
-#EXTM3U billed-msg="LAST UPDATE 15 DEC 2024 16.00 WIB"
+#EXTM3U billed-msg="LAST UPDATE 16 DEC 2024 22.00 WIB"
