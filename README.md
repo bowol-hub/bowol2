@@ -508,24 +508,24 @@ http://122.117.7.235:8543/http/61.219.99.20:8081/hls/65/807/ch18.m3u8?token=7375
 http://210.210.155.37/x6bnqe/s/s182/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="TAIWAN", 民視
-http://litv.zapi.us.kg/?id=4gtv-4gtv002
+https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/4gtv-4gtv002
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視台灣台.png" group-title="TAIWAN", 民視台灣台 
-http://litv.zapi.us.kg/?id=4gtv-4gtv001
+https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/4gtv-4gtv001
 
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視第一台.png" group-title="TAIWAN", 民視第一台 (No.1)
-http://litv.zapi.us.kg/?id=4gtv-4gtv003
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視第一台.png" group-title="TAIWAN", 民視第一台
+https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/4gtv-4gtv003
 #http://47.83.8.156:5008/proxy?url=http://47.83.8.156:5000/litv/4gtv-4gtv003
 
-
 #EXTINF:-1 group-title="TAIWAN", OPERA
-http://litv.zapi.us.kg/?id=4gtv-4gtv006
+https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/4gtv-4gtv006
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視旅遊台.png" group-title="TAIWAN", 民視旅遊台
-http://47.83.8.156:5008/proxy?url=http://47.83.8.156:5000/litv/litv-ftv07
+https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/litv-ftv07
+#http://47.83.8.156:5008/proxy?url=http://47.83.8.156:5000/litv/litv-ftv07
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視綜藝台.png" group-title="TAIWAN", 民視綜藝台 
-http://litv.zapi.us.kg/?id=4gtv-4gtv004
+https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/4gtv-4gtv004
 #http://47.83.8.156:5008/proxy?url=http://47.83.8.156:5000/litv/4gtv-4gtv004
 
 
@@ -1304,14 +1304,13 @@ https://webhdrunns.mizhls.ru/lb/premium318/index.m3u8|referer=https://lewblivehd
 
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast1.jpg" group-title="SPORTS",Taiwan Sports Billiard 1
-https://litv.zapi.us.kg/?id=litv-longturn10
+https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/litv-longturn10
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast1.jpg" group-title="SPORTS",Taiwan Sports Billiard 2
-https://litv.zapi.us.kg/?id=litv-longturn13
+https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/litv-longturn13
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast4.jpg" group-title="SPORTS",Golf  Sports Taiwan
-https://litv.zapi.us.kg/?id=litv-longturn05
+https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/litv-longturn05
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast1.jpg" group-title="SPORTS",Golf  Sports Taiwan 2
-https://litv.zapi.us.kg/?id=litv-longturn06
-
+https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/litv-longturn06
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1356,4 +1355,4 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSNews/mpd/TVBSNews.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
 
 
-#EXTM3U billed-msg="LAST UPDATE 16 DEC 2024 22.00 WIB"
+#EXTM3U billed-msg="LAST UPDATE 17 DEC 2024 22.00 WIB"
