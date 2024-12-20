@@ -501,20 +501,22 @@ http://122.117.7.235:8521/http/61.219.99.20:8081/hls/65/807/ch20.m3u8?token=7375
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/三立綜合台.png" group-title="TAIWAN",SETi XIJU 
 http://122.117.7.235:8522/http/61.219.99.20:8081/hls/65/807/ch19.m3u8?token=7375646fda47ce22ccf96ec73b33695579634a99
 #http://61.221.215.25:8800/hls/41/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/三立綜合台.png" group-title="TAIWAN",SETi Xinwen
-http://122.117.7.235:8543/http/61.219.99.20:8081/hls/65/807/ch18.m3u8?token=7375646f18d8bc80446afbb09b7c04f854dc6a27
 
 #EXTINF:-1 group-title="TAIWAN" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png",Da Ai TV
 http://210.210.155.37/x6bnqe/s/s182/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="TAIWAN", 民視
 https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/4gtv-4gtv002
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="TAIWAN", 民視 Back Up
+http://8.222.179.68:5500/litv/4gtv-4gtv002
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視台灣台.png" group-title="TAIWAN", 民視台灣台 
 https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/4gtv-4gtv001
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視第一台.png" group-title="TAIWAN", 民視第一台
 https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/4gtv-4gtv003
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視第一台.png" group-title="TAIWAN", 民視第一台 Back Up
+http://8.222.179.68:5500/litv/4gtv-4gtv003
 #http://47.83.8.156:5008/proxy?url=http://47.83.8.156:5000/litv/4gtv-4gtv003
 
 #EXTINF:-1 group-title="TAIWAN", OPERA
@@ -527,7 +529,8 @@ https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/litv-ftv07
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視綜藝台.png" group-title="TAIWAN", 民視綜藝台 
 https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/4gtv-4gtv004
 #http://47.83.8.156:5008/proxy?url=http://47.83.8.156:5000/litv/4gtv-4gtv004
-
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視綜藝台.png" group-title="TAIWAN", 民視綜藝台 back up
+http://8.222.179.68:5500/litv/4gtv-4gtv004
 
 
 
@@ -546,8 +549,6 @@ http://210.210.155.37/x6bnqe/s/s19/index.m3u8
 http://iptv.kilas7.com:80/kaukia/asdfrewq/90
 #EXTINF:-1 group-title="CHINA" tvg-logo="https://seeklogo.com/images/C/cctv-logo-13BF549EB7-seeklogo.com.png",CCTV-11
 http://iptv.kilas7.com:80/kaukia/asdfrewq/89
-#EXTINF:-1 group-title="CHINA" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zhejiang-satellite-tv-cn.png",Zhe Jiang
-http://iptv.kilas7.com:80/kaukia/asdfrewq/43
 #EXTINF:-1 group-title="CHINA" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dragon-tv-cn.png",Dragon
 http://210.210.155.37/x6bnqe/s/s29/index.m3u8
 #EXTINF:-1 group-title="CHINA" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-1-cn.png",CCTV-1 
@@ -649,6 +650,8 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.1; OPPO CPH1729 Build/N6F26Q) IPTV/7.1.6
 https://1s1.rctiplus.id/inews2023-avc1_3500000=8-mp4a_128000_eng=2.m3u8
 
+#EXTINF:-1 group-title="LIGA INGGR1S",NOW Sports 1
+https://live.hkdvb.com/hls/live/621.m3u8?token=245492868516952
 
 #EXTINF:-1 group-title="LIGA INGGR1S" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/dazn1.png",DAZN 1 Direto
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
@@ -1332,7 +1335,7 @@ http://xtvplayer.top:8080/live/Atiffb694/2840914/350972.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png" group-title="🇲🇨 Liga Indonesia",INDOSIAR 2
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505849
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png" group-title="🇲🇨 Liga Indonesia",INDOSIAR 3
-http://royaltv.live:25461/live/C0110/7597/105.ts
+http://royaltv.live:25461/C0110/7597/105
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RcCBhJw/tvn-movie.png" group-title="KOREA", TVN MOVIES
@@ -1358,4 +1361,4 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSNews/mpd/TVBSNews.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
 
 
-#EXTM3U billed-msg="LAST UPDATE 17 DEC 2024 22.00 WIB"
+#EXTM3U billed-msg="LAST UPDATE 20 DEC 2024 22.00 WIB"
