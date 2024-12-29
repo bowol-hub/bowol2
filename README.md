@@ -1352,7 +1352,7 @@ http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505849
 #KODIPROP:inputstream.ffmpegdirect.program_number=2154
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png" group-title="🇲🇨 Liga Indonesia",INDOSIAR 1
-http://tvking.xyz:8080/live/wanz2022/asdf2022/5117.ts
+http://tvking.xyz:8080/wanz2022/asdf2022/5117
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RcCBhJw/tvn-movie.png" group-title="KOREA", TVN MOVIES
