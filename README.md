@@ -498,6 +498,8 @@ http://iptv12k.com:35461/654321/123456/14495
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/三立綜合台.png" group-title="TAIWAN",SETi XIJU 
 http://8.222.179.68:5500/litv/4gtv-4gtv034
 #http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi Xonghe
+http://iptv12k.com:35461/654321/123456/14496
 
 #EXTINF:-1 group-title="TAIWAN" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png",Da Ai TV
 http://210.210.155.37/x6bnqe/s/s182/index.m3u8
@@ -565,9 +567,9 @@ https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-IMC.m3
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/phoenix_infonews.png" group-title="CHINA",Phoenix News
-http://iptv.kilas7.com:80/kaukia/asdfrewq/35
+https://stream1.freetv.fun/2a72335a63dd0749c5a32d1bf1b0c001a81a26cc81d7e94534791d36f2c87d7d.ctv
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/phoenix_cn.png" group-title="CHINA",Phoenix TV
-http://210.210.155.35/uq2663/h/h157/index2.m3u8
+https://stream1.freetv.fun/16bc0b847b4c0a5a1a8645fc01576a0a28d5d8667bad711c48e5d80d12d2d329.ctv
 #EXTINF:0 tvg-logo="https://media.slid.es/uploads/jeonwoochi/images/789230/xingkong.png" group-title="CHINA",Star Xing Kong
 http://iptv.kilas7.com:80/kaukia/asdfrewq/38
 #EXTINF:-1 group-title="CHINA" tvg-logo="https://seeklogo.com/images/C/cctv-logo-13BF549EB7-seeklogo.com.png",CCTV-4
@@ -1328,13 +1330,13 @@ https://webhdrunns.mizhls.ru/lb/premium318/index.m3u8|referer=https://lewblivehd
 
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast1.jpg" group-title="SPORTS",Taiwan Sports Billiard 1
-https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/litv-longturn10
+http://8.222.179.68:5500/litv/litv-longturn04
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast1.jpg" group-title="SPORTS",Taiwan Sports Billiard 2
-https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/litv-longturn13
+http://8.222.179.68:5500/litv/litv-longturn13
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast4.jpg" group-title="SPORTS",Golf  Sports Taiwan
-https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/litv-longturn05
+http://8.222.179.68:5500/litv/litv-longturn05
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast1.jpg" group-title="SPORTS",Golf  Sports Taiwan 2
-https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/litv-longturn06
+http://8.222.179.68:5500/litv/litv-longturn06
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
