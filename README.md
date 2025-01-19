@@ -491,46 +491,41 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.m
 
 #TAIWAN--------------------------------
 
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://images.squarespace-cdn.com/content/v1/5ea862a8804f7204dfbb35fb/1588805215534-F9MLXQ3U7250YGDT87CQ/network_cti.png",CTi Asia
+http://211.75.171.121:8551/http/61.219.99.20:8081/hls/67/809/ch26.m3u8?token=7375646fb4ecaa6d6f503a7957fe578295798a8b
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://images.squarespace-cdn.com/content/v1/5ea862a8804f7204dfbb35fb/1588805215534-F9MLXQ3U7250YGDT87CQ/network_cti.png",CTi TV
+http://211.75.171.121:8521/http/61.219.99.20:8081/hls/67/809/ch25.m3u8?token=7375646fb4ecaa6d6f503a7957fe578295798a8b
+
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi Taiwan 
+http://211.75.171.121:8516/http/61.219.99.20:8081/hls/65/807/ch20.m3u8?token=7375646fda47ce22ccf96ec73b33695579634a99
+http://211.75.171.121:8516/http/61.67.128.137:8081/hls/65/807/ch020.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi Taiwan Back Up
 http://iptv12k.com:35461/654321/123456/14495
-#http://125.227.210.55:8160/VideoInput/play.ts
 
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/三立綜合台.png" group-title="TAIWAN",SETi XIJU 
+http://211.75.171.121:8516/http/61.67.128.137:8081/hls/65/807/ch020.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SET Variety
+http://211.75.171.121:8537/http/61.219.99.20:8081/hls/65/807/ch18.m3u8?token=7375646f18d8bc80446afbb09b7c04f854dc6a27
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SET Classic
 http://8.222.179.68:5500/litv/4gtv-4gtv034
-#http://61.221.215.25:8800/hls/41/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi Xonghe
-http://iptv12k.com:35461/654321/123456/14496
-
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SET Zonghe
+http://211.75.171.121:8517/http/61.219.99.20:8081/hls/65/807/ch19.m3u8?token=7375646fda47ce22ccf96ec73b33695579634a99
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",Hua Hee Dai
+http://tvking.xyz:8080/wanz2022/asdf2022/8486
 #EXTINF:-1 group-title="TAIWAN" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png",Da Ai TV
 http://210.210.155.37/x6bnqe/s/s182/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="TAIWAN", 民視
-https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/4gtv-4gtv002
+http://122.117.109.23:8504/http/61.67.128.137:8088/hls/73/815/ch49.m3u8?token=7375646fbca40b05335ef9c4afcea82da7db6a27
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="TAIWAN", 民視 Back Up
-http://8.222.179.68:5500/litv/4gtv-4gtv002
-
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視台灣台.png" group-title="TAIWAN", 民視台灣台 
-https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/4gtv-4gtv001
-
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視第一台.png" group-title="TAIWAN", 民視第一台
-https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/4gtv-4gtv003
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視第一台.png" group-title="TAIWAN", 民視第一台 Back Up
-http://8.222.179.68:5500/litv/4gtv-4gtv003
-#http://47.83.8.156:5008/proxy?url=http://47.83.8.156:5000/litv/4gtv-4gtv003
-
-#EXTINF:-1 group-title="TAIWAN", OPERA
-https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/4gtv-4gtv006
-
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視旅遊台.png" group-title="TAIWAN", 民視旅遊台
-https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/litv-ftv07
-#http://47.83.8.156:5008/proxy?url=http://47.83.8.156:5000/litv/litv-ftv07
-
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視綜藝台.png" group-title="TAIWAN", 民視綜藝台 
-https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/4gtv-4gtv004
-#http://47.83.8.156:5008/proxy?url=http://47.83.8.156:5000/litv/4gtv-4gtv004
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視綜藝台.png" group-title="TAIWAN", 民視綜藝台 back up
-http://8.222.179.68:5500/litv/4gtv-4gtv004
-
+http://122.117.109.23:8504/http/61.67.128.137:8088/hls/73/815/ch49.m3u8
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="TAIWAN", 民視 Back Up2
+http://211.75.171.121:8567/http/61.67.128.137:8088/hls/73/815/ch49.m3u8?token=7375646fbca40b05335ef9c4afcea82da7db6a27
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png",Da Ai TV
+http://210.210.155.37/x6bnqe/s/s182/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvkeep.com/uploads/cts-hd.jpg" group-title="TAIWAN",CTS
+http://122.117.109.23:8503/http/61.67.128.137:8088/hls/72/814/ch48.m3u8?token=7375646fbca40b05335ef9c4afcea82da7db6a27
+#EXTINF:-1 tvg-logo="https://s3-symbol-logo.tradingview.com/china-television--600.png" group-title="TAIWAN",CTV
+http://122.117.109.23:8502/http/61.67.128.137:8088/hls/72/814/ch47.m3u8?token=7375646fbca40b05335ef9c4afcea82da7db6a27
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
