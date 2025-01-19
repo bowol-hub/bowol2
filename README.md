@@ -493,6 +493,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.m
 
 #EXTINF:-1 group-title="TAIWAN" tvg-logo="https://images.squarespace-cdn.com/content/v1/5ea862a8804f7204dfbb35fb/1588805215534-F9MLXQ3U7250YGDT87CQ/network_cti.png",CTi Asia
 http://211.75.171.121:8551/http/61.219.99.20:8081/hls/67/809/ch26.m3u8?token=7375646fb4ecaa6d6f503a7957fe578295798a8b
+
 #EXTINF:-1 group-title="TAIWAN" tvg-logo="https://images.squarespace-cdn.com/content/v1/5ea862a8804f7204dfbb35fb/1588805215534-F9MLXQ3U7250YGDT87CQ/network_cti.png",CTi TV
 http://211.75.171.121:8521/http/61.219.99.20:8081/hls/67/809/ch25.m3u8?token=7375646fb4ecaa6d6f503a7957fe578295798a8b
 
@@ -505,27 +506,25 @@ http://iptv12k.com:35461/654321/123456/14495
 http://211.75.171.121:8516/http/61.67.128.137:8081/hls/65/807/ch020.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SET Variety
 http://211.75.171.121:8537/http/61.219.99.20:8081/hls/65/807/ch18.m3u8?token=7375646f18d8bc80446afbb09b7c04f854dc6a27
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SET Classic
-http://8.222.179.68:5500/litv/4gtv-4gtv034
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SET Zonghe
 http://211.75.171.121:8517/http/61.219.99.20:8081/hls/65/807/ch19.m3u8?token=7375646fda47ce22ccf96ec73b33695579634a99
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SET Xiju
+http://125.229.9.67:8521/http/61.219.99.20:8081/hls/65/807/ch19.m3u8?token=7375646fda47ce22ccf96ec73b33695579634a99
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",Hua Hee Dai
 http://tvking.xyz:8080/wanz2022/asdf2022/8486
-#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png",Da Ai TV
-http://210.210.155.37/x6bnqe/s/s182/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="TAIWAN", 民視
-http://122.117.109.23:8504/http/61.67.128.137:8088/hls/73/815/ch49.m3u8?token=7375646fbca40b05335ef9c4afcea82da7db6a27
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="TAIWAN", 民視 Back Up
-http://122.117.109.23:8504/http/61.67.128.137:8088/hls/73/815/ch49.m3u8
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="TAIWAN", 民視 Back Up2
-http://211.75.171.121:8567/http/61.67.128.137:8088/hls/73/815/ch49.m3u8?token=7375646fbca40b05335ef9c4afcea82da7db6a27
+http://125.229.9.67:8504/http/61.67.128.137:8088/hls/73/815/ch49.m3u8?token=7375646fbca40b05335ef9c4afcea82da7db6a27
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="TAIWAN", 民視 (back up)
+http://125.229.9.67:8504/http/220.130.87.218:8081/hls/85/80/Ftv4max.m3u8
+
 #EXTINF:-1 group-title="TAIWAN" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png",Da Ai TV
 http://210.210.155.37/x6bnqe/s/s182/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvkeep.com/uploads/cts-hd.jpg" group-title="TAIWAN",CTS
-http://122.117.109.23:8503/http/61.67.128.137:8088/hls/72/814/ch48.m3u8?token=7375646fbca40b05335ef9c4afcea82da7db6a27
+http://125.229.9.67:8503/http/61.67.128.137:8088/hls/72/814/ch48.m3u8?token=7375646fbca40b05335ef9c4afcea82da7db6a27
 #EXTINF:-1 tvg-logo="https://s3-symbol-logo.tradingview.com/china-television--600.png" group-title="TAIWAN",CTV
-http://122.117.109.23:8502/http/61.67.128.137:8088/hls/72/814/ch47.m3u8?token=7375646fbca40b05335ef9c4afcea82da7db6a27
+http://125.229.9.67:8502/http/61.67.128.137:8088/hls/72/814/ch47.m3u8?token=7375646fbca40b05335ef9c4afcea82da7db6a27
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1324,16 +1323,6 @@ https://d2onj944t92pwq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://webhdrunns.mizhls.ru/lb/premium318/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast1.jpg" group-title="SPORTS",Taiwan Sports Billiard 1
-http://8.222.179.68:5500/litv/litv-longturn04
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast1.jpg" group-title="SPORTS",Taiwan Sports Billiard 2
-http://8.222.179.68:5500/litv/litv-longturn13
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast4.jpg" group-title="SPORTS",Golf  Sports Taiwan
-http://8.222.179.68:5500/litv/litv-longturn05
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast1.jpg" group-title="SPORTS",Golf  Sports Taiwan 2
-http://8.222.179.68:5500/litv/litv-longturn06
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -1380,5 +1369,25 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSNews/mpd/TVBSNews.mpd
 #KODIPROP:inputstream.adaptive.license_key=f530cf9ab2244fdb935da69d93614188:ccd52f487ef5c2c29869a5b6899397bb
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
 
+#EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://www.dens.tv/images/channel-logo/99.jpg", Celestial Movies HD
+http://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Celestial_Movies_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
-#EXTM3U billed-msg="LAST UPDATE 7 Januari 08.00 WIB"
+#EXTINF:-1 tvg-logo="https://www.lstime.com.tw/ls_pages/pages/img/img_logo@2x.png" group-title="MOVIES CHINESE",LS Time Movie
+http://211.75.171.121:8581/http/61.67.128.137:8081/hls/69/811/ch035.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/ltvyingju.jpg" group-title="MOVIES CHINESE",LTV
+http://211.75.171.121:8509/http/61.67.128.137:8068/hls/10/80/cstv10.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/ltvyingju.jpg" group-title="MOVIES CHINESE",LTV Cinema
+http://211.75.171.121:8563/http/61.67.128.137:8081/hls/68/810/ch030.m3u8
+#EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://www.dens.tv/images/channel-logo/110.jpg", CCM (Celestial Classic MV)
+http://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCM_Celestial_Classic_MV-|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
+#EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://www.dens.tv/images/channel-logo/110.jpg", CCM 2
+http://rr3.dens.tv/s/s31/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/ltvyingju.jpg" group-title="MOVIES CHINESE",LTV Drama
+http://211.75.171.121:8506/http/61.67.128.137:8068/hls/13/80/cstv13.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/ltvyingju.jpg" group-title="MOVIES CHINESE",LTV Drama 2
+http://211.75.171.121:8507/http/61.67.128.137:8068/hls/12/80/cstv12.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/ltvyingju.jpg" group-title="MOVIES CHINESE",LTV Film
+http://211.75.171.121:8508/http/61.67.128.137:8068/hls/11/80/cstv11.m3u8
+
+#EXTM3U billed-msg="LAST UPDATE 19 Januari 08.00 WIB"
