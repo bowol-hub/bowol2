@@ -1159,21 +1159,6 @@ https://e02.encosilk.cc/storage/6783d23c44fbe.mp4
 #EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wnMo89oa5VdfS2rmET4yKWoyeig.jpg",Halimuyak (2025)
 https://e102.encosilk.cc/storage/6783c60675b9e.mp4
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/znlcaqgOppgEl7eHiTYo55gD8Fy.jpg",Bodyguard 3 (2025)
-https://streamsilk.com/data/67833c14eb805/67833c14eb805720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jAQO13lnhU1aHH1ldDwa0hwEK2T.jpg",My Friend is a Cute Shark (2025)
-https://streamsilk.com/data/678237732d5a0/678237732d5a0720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/15S0xOO4d7zBgasV2qNo03Ax7Qb.jpg",Den of Thieves 2  Pantera (2025)
-https://streamsilk.com/data/67816c3ea58f2/67816c3ea58f2720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://klikxxi.com/wp-content/uploads/2025/01/zH3CBGX0pQA8e9Psxy5BXdzbAJP-170x255.jpg",The Gardener (2025)
-https://streamsilk.com/data/67810413a02a9/67810413a02a9720.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8qJfjFhNwpTONNAoE6gUSx2yGpg.jpg",Ad Vitam (2025)
@@ -1188,18 +1173,10 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/06/Gabriel.Igl
 https://streamsilk.com/data/67825ae5f32ed/67825ae5f32ed1080.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lk86c9cmNCXKX44jhDQpcRzK3Gp.jpg",The Savior of the World (2025)
-https://streamsilk.com/data/677f91bc117e0/677f91bc117e0720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fhx261QNON8M7oMnVBy8jzSwxEZ.jpg",Evil of The Rat – Rat King (2025)
 https://stream.hownetwork.xyz/xxx/evil-of-the-rat-rat-king-2025-webdl_X_eb42284d/28/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/05/Evil.of.The.Rat.Rat.King.2025.mp4/tracks-v1a1/mono.m3u8
 https://streamsilk.com/data/677e4d32d7473/677e4d32d7473720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fAXDQny8kEquc1BImiQHhYMGSsW.jpg",The Damned (2025)
-https://streamsilk.com/data/6779843f1b73e/6779843f1b73e720.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",The Love Scam (2025)
@@ -1211,11 +1188,6 @@ https://stream.hownetwork.xyz/xxx/dont-die-the-man-who-wants-to-live-forever-202
 https://streamsilk.com/data/6775962fe2669/6775962fe2669480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/01/Dont.Die.The.Man.Who.Wants.to.Live.Forever.2025.mp4/tracks-v1a1/mono.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",Nosferatu (2025) TS
-https://stream.hownetwork.xyz/xxx/nosferatu-2024-hdcam_X_15f542f3/28/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/09/Nosferatu.2024.mp4/tracks-v1a1/mono.m3u8
-https://streamsilk.com/data/6787b8d4a5ff5/6787b8d4a5ff5720.m3u8
 
 
 #EXTM3U billed-msg="LAST UPDATE 30 Januari 08.00 WIB"
