@@ -593,36 +593,36 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.m
 #TAIWAN--------------------------------
 
 #EXTINF:-1 group-title="TAIWAN" tvg-logo="https://images.squarespace-cdn.com/content/v1/5ea862a8804f7204dfbb35fb/1588805215534-F9MLXQ3U7250YGDT87CQ/network_cti.png",CTi Asia
-http://211.75.171.121:8551/http/61.219.99.20:8081/hls/67/809/ch26.m3u8?token=7375646fb4ecaa6d6f503a7957fe578295798a8b
+http://122.117.109.23:8559/http/61.219.99.20:8081/hls/67/809/ch26.m3u8?token=7375646fb4ecaa6d6f503a7957fe578295798a8b
 
 #EXTINF:-1 group-title="TAIWAN" tvg-logo="https://images.squarespace-cdn.com/content/v1/5ea862a8804f7204dfbb35fb/1588805215534-F9MLXQ3U7250YGDT87CQ/network_cti.png",CTi TV
-http://211.75.171.121:8521/http/61.219.99.20:8081/hls/67/809/ch25.m3u8?token=7375646fb4ecaa6d6f503a7957fe578295798a8b
+http://122.117.109.23:8559/http/61.219.99.20:8081/hls/67/809/ch25.m3u8?token=7375646fb4ecaa6d6f503a7957fe578295798a8b
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi Taiwan 
-http://211.75.171.121:8516/http/61.219.99.20:8081/hls/65/807/ch20.m3u8?token=7375646fda47ce22ccf96ec73b33695579634a99
-http://211.75.171.121:8516/http/61.67.128.137:8081/hls/65/807/ch020.m3u8
+http://122.117.109.23:8559/http/61.219.99.20:8081/hls/65/807/ch20.m3u8?token=7375646fda47ce22ccf96ec73b33695579634a99
+http://122.117.109.23:8559/http/61.67.128.137:8081/hls/65/807/ch020.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi Taiwan Back Up
 http://iptv12k.com:35461/654321/123456/14495
 
 http://211.75.171.121:8516/http/61.67.128.137:8081/hls/65/807/ch020.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SET Variety
-http://211.75.171.121:8537/http/61.219.99.20:8081/hls/65/807/ch18.m3u8?token=7375646f18d8bc80446afbb09b7c04f854dc6a27
+http://122.117.109.23:8559/http/61.219.99.20:8081/hls/65/807/ch18.m3u8?token=7375646f18d8bc80446afbb09b7c04f854dc6a27
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SET Zonghe
-http://211.75.171.121:8517/http/61.219.99.20:8081/hls/65/807/ch19.m3u8?token=7375646fda47ce22ccf96ec73b33695579634a99
+http://122.117.109.23:8559/http/61.219.99.20:8081/hls/65/807/ch19.m3u8?token=7375646fda47ce22ccf96ec73b33695579634a99
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SET Xiju
-http://125.229.9.67:8521/http/61.219.99.20:8081/hls/65/807/ch19.m3u8?token=7375646fda47ce22ccf96ec73b33695579634a99
+http://122.117.109.23:8559/http/61.219.99.20:8081/hls/65/807/ch19.m3u8?token=7375646fda47ce22ccf96ec73b33695579634a99
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="TAIWAN", 民視
-http://125.229.9.67:8504/http/61.67.128.137:8088/hls/73/815/ch49.m3u8?token=7375646fbca40b05335ef9c4afcea82da7db6a27
+http://122.117.109.23:8504/http/61.67.128.137:8088/hls/73/815/ch49.m3u8?token=7375646fbca40b05335ef9c4afcea82da7db6a27
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="TAIWAN", 民視 (back up)
 http://125.229.9.67:8504/http/220.130.87.218:8081/hls/85/80/Ftv4max.m3u8
 
 #EXTINF:-1 group-title="TAIWAN" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png",Da Ai TV
 http://210.210.155.37/x6bnqe/s/s182/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvkeep.com/uploads/cts-hd.jpg" group-title="TAIWAN",CTS
-http://125.229.9.67:8503/http/61.67.128.137:8088/hls/72/814/ch48.m3u8?token=7375646fbca40b05335ef9c4afcea82da7db6a27
+http://122.117.109.23:8503/http/61.67.128.137:8088/hls/72/814/ch48.m3u8?token=7375646fbca40b05335ef9c4afcea82da7db6a27
 #EXTINF:-1 tvg-logo="https://s3-symbol-logo.tradingview.com/china-television--600.png" group-title="TAIWAN",CTV
-http://125.229.9.67:8502/http/61.67.128.137:8088/hls/72/814/ch47.m3u8?token=7375646fbca40b05335ef9c4afcea82da7db6a27
+http://122.117.109.23:8503/http/61.67.128.137:8088/hls/72/814/ch47.m3u8?token=7375646fbca40b05335ef9c4afcea82da7db6a27
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
