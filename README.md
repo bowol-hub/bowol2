@@ -719,32 +719,10 @@ http://15.235.144.67:35461/654321/123456/11243
 #EXTINF:-1 group-title="LIGA INGGR1S" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYoldvZA2b7EAOQuwIVCHp53EH1eocLEJxEg&s",Astro Premier League 2
 http://15.235.144.67:35461/654321/123456/971
 
-#EXTINF:-1 group-title="LIGA INGGR1S" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport2.bh.png",Arena Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
-
-#EXTINF:-1 group-title="LIGA INGGR1S" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport5.bh.png",Arena Sport 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
-
-#EXTINF:-1 group-title="LIGA INGGR1S" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport6.bh.png",Arena Sport 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/975c7b2205f06f913fe2a189b15f0b28.png" group-title="LIGA INGGR1S",Arena Sport 2 Premium
-https://webhdrunns.mizhls.ru/lb/premium135/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Logo_Canal%2B_Sport_2013.svg/320px-Logo_Canal%2B_Sport_2013.svg.png" group-title="LIGA INGGR1S",Canal+ Sport
-https://webhdrunns.mizhls.ru/lb/premium488/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/efa11r1627492687.png" group-title="LIGA INGGR1S",Diema Sport 2
-https://webhdrunns.mizhls.ru/lb/premium466/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 group-title="LIGA INGGR1S" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png",Bein Sports Arab 1
+http://het107a.4rouwanda-shop.store/live/918454578001/index.m3u8
+#EXTINF:-1 group-title="LIGA INGGR1S" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",Bein Sports Arab 2
+http://het109a.4rouwanda-shop.store/live/69854211/index.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
