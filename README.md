@@ -187,6 +187,9 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 
+#EXTINF:0 group-title="MOVIES" tvg-logo="https://www.kgtv.tk/api/chan/Hbo.png" ,HBO
+http://iptv12k.com:35461/654321/123456/599
+
  
 #KOREA
 #EXTINF:-1 tvg-logo="https://wiki.edunitas.com/_sepakbola/_baca_image.php?td=21&kodegb=250px-KBS_.png" group-title="KOREA", KBS Korea
@@ -1026,9 +1029,22 @@ https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-NBATV.
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png" group-title="🇲🇨 Liga Indonesia",INDOSIAR 1
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73617.ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png" group-title="🇲🇨 Liga Indonesia",INDOSIAR 2
 https://mantul.biz.id:443/inetwork/gayanet12/60.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png" group-title="🇲🇨 Liga Indonesia",INDOSIAR 3
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/Indosiar.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png" group-title="🇲🇨 Liga Indonesia",INDOSIAR 4
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1845.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png" group-title="🇲🇨 Liga Indonesia",INDOSIAR 5
+http://filex.tv:8080/live/aftab123/004090/302264.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png" group-title="🇲🇨 Liga Indonesia",INDOSIAR 6
+https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png" group-title="🇲🇨 Liga Indonesia",INDOSIAR 7
+https://mantul.biz.id:443/live/inetwork/gayanet12/60.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png" group-title="🇲🇨 Liga Indonesia",INDOSIAR 8
+https://mantul.biz.id:443/inetwork/gayanet12/60.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png" group-title="🇲🇨 Liga Indonesia",INDOSIAR 9
+http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34327
 
 
 
@@ -1250,6 +1266,9 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/05/The.Paradis
 https://stream.hownetwork.xyz/xxx/2073-2024-webdl_X_b232dca0/28/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/05/2073.2024.mp4/tracks-v1a1/mono.m3u8
 
-
+#EXTINF:0 group-title="FISHING" ,ITALIAN FISHING CH
+https://d2n1ucuifwse4q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5nki8b8udz6dm/index.m3u8
+#EXTINF:0 group-title="FISHING" ,WIRED 2 FISH
+https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
 
 #EXTM3U billed-msg="LAST UPDATE 16 FEB 2025"
