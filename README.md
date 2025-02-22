@@ -707,10 +707,14 @@ http://15.235.144.67:35461/654321/123456/11243
 #EXTINF:-1 group-title="LIGA INGGR1S" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYoldvZA2b7EAOQuwIVCHp53EH1eocLEJxEg&s",Astro Premier League 2
 http://15.235.144.67:35461/654321/123456/971
 
-#EXTINF:-1 group-title="LIGA INGGR1S" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png",Bein Sports Arab 1
+#EXTINF:-1 group-title="LIGA INGGR1S" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png",Bein Sports 1
 http://het107a.4rouwanda-shop.store/live/918454578001/index.m3u8
-#EXTINF:-1 group-title="LIGA INGGR1S" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",Bein Sports Arab 2
+#EXTINF:-1 group-title="LIGA INGGR1S" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",Bein Sports 2
 http://het109a.4rouwanda-shop.store/live/69854211/index.m3u8
+#EXTINF:-1 group-title="LIGA INGGR1S" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",Bein Sports 3
+http://het107a.4rouwanda-shop.store/live/918454578001/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="LIGA INGGR1S",Bein 4
+http://het102a.4rouwanda-shop.store/live/9787488847/index.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
