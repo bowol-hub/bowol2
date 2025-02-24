@@ -1048,6 +1048,13 @@ https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-NBATV.
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 https://why.biz.id/Iptv/rooid.php/stream.mpd?id=205
 
+#EXTINF:-1 group-title="🇲🇨 Liga Indonesia" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drmvplus.h3ll0.workers.dev/?no=114&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
 
 #EXTINF:-1 group-title="TAIWAN" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/TVBS_News.png/revision/latest/scale-to-width-down/405?cb=20230413120549&path-prefix=vi", TVBS News 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
