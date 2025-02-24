@@ -693,7 +693,12 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
-
+#EXTINF:-1 group-title="LIGA INGGR1S" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
+https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -706,10 +711,13 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 http://het107a.4rouwanda-shop.store/live/918454578001/index.m3u8
 #EXTINF:-1 group-title="LIGA INGGR1S" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",Bein Sports 2
 http://het109a.4rouwanda-shop.store/live/69854211/index.m3u8
-#EXTINF:-1 group-title="LIGA INGGR1S" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",Bein Sports 3
-http://het107a.4rouwanda-shop.store/live/918454578001/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="LIGA INGGR1S",Bein 4
 http://het102a.4rouwanda-shop.store/live/9787488847/index.m3u8
+
+#EXTINF:-1 group-title="LIGA INGGR1S" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1
+http://ktv.im:8080/kk56712/kk12345/49522
+#EXTINF:-1 group-title="LIGA INGGR1S" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 2
+http://ktv.im:8080/kk56712/kk12345/49523
 
 #EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1710399597-.png" group-title="LIGA INGGR1S",Champions TV 5 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
@@ -1280,14 +1288,6 @@ https://d2n1ucuifwse4q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png" group-title="🇲🇨 Liga Indonesia",INDOSIAR 1
-http://ktpremium.xyz:2095/live/QPP76780098/A904599/73617.ts
 
-#EXTINF:-1 group-title="🇲🇨 Liga Indonesia" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmvplus.h3ll0.workers.dev/?no=114&type=drm
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTM3U billed-msg="LAST UPDATE 16 FEB 2025"
