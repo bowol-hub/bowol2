@@ -706,18 +706,21 @@ https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 #EXTINF:-1 group-title="LIGA INGGR1S" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",PeacockTV PL
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="LIGA INGGR1S",Astro Premier League 1
+http://iptv12k.com:35461/654321/123456/11243
 
-#EXTINF:-1 group-title="LIGA INGGR1S" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png",Bein Sports 1
-http://het107a.4rouwanda-shop.store/live/918454578001/index.m3u8
-#EXTINF:-1 group-title="LIGA INGGR1S" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",Bein Sports 2
-http://het109a.4rouwanda-shop.store/live/69854211/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="LIGA INGGR1S",Bein 4
-http://het102a.4rouwanda-shop.store/live/9787488847/index.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="LIGA INGGR1S",Astro Premier League 2
+http://iptv12k.com:35461/654321/123456/11242
 
-#EXTINF:-1 group-title="LIGA INGGR1S" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1
-http://ktv.im:8080/kk56712/kk12345/49522
-#EXTINF:-1 group-title="LIGA INGGR1S" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 2
-http://ktv.im:8080/kk56712/kk12345/49523
+#EXTINF:-1 group-title="LIGA INGGR1S" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",True Premier 1
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="LIGA INGGR1S" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png",True Premier 2
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1710399597-.png" group-title="LIGA INGGR1S",Champions TV 5 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
@@ -1290,4 +1293,4 @@ https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
 
 
 
-#EXTM3U billed-msg="LAST UPDATE 16 FEB 2025"
+#EXTM3U billed-msg="LAST UPDATE 13 maret 2025"
