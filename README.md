@@ -1069,18 +1069,34 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 #EXTINF:-1 group-title="CHINESE",Mei Ah Movie HongKong
 http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
 
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://www.tvchinese.net/uploads/tv/ftv.jpg",Minshe Formosa 2
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ftvhd_taiwan/playlist.m3u8
 
-#EXTINF:-1 group-title="CHINESE" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/TVBS_News.png/revision/latest/scale-to-width-down/405?cb=20230413120549&path-prefix=vi", TVBS News 
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="TAIWAN", 民視 
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-2/AKTV.m3u8
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/%E6%B0%91%E8%A6%96%E7%AC%AC%E4%B8%80%E5%8F%B0.png" group-title="TAIWAN", 民視第一台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi TW
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/sanlitaiwan/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sanlih_E-Television_logo.png" group-title="TAIWAN",SETi Asia
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/sanlixiju_twn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sanlih_E-Television_logo.png" group-title="TAIWAN",SETi
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-6/AKTV.m3u8
+
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/TVBS_News.png/revision/latest/scale-to-width-down/405?cb=20230413120549&path-prefix=vi", TVBS News 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4439ed36468445ea780f1eba44e1d05:e40e4ecb1caadc90c92ce975264c99d8
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSNews/mpd/TVBSNews.mpd
 
-#EXTINF:-1 group-title="CHINESE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/TVBS_Asia_logo_2017.png/220px-TVBS_Asia_logo_2017.png", TVBS Asia 
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/TVBS_Asia_logo_2017.png/220px-TVBS_Asia_logo_2017.png", TVBS Asia 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f530cf9ab2244fdb935da69d93614188:ccd52f487ef5c2c29869a5b6899397bb
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
+
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cuPqxATt872rKIR1WZI83TcpKw6.jpg",Man with No Past (2025)
