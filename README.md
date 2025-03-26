@@ -32,10 +32,8 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b2800
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
                
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://www.visionplus.id/images/repository/970/49970-SNAPSHOT-l.png",Metro TV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
-https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://perkoro.suwalbolong.workers.dev/index.m3u8?id=metrotv&key=true
 
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://www.dens.tv/images/channel-logo/6.jpg",Metro TV SD
 http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
@@ -51,11 +49,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png" group-title="BERITA",TVONE
 http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
-#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-m.png" group-title="BERITA",TV ONE
-https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://perkoro.suwalbolong.workers.dev/index.m3u8?id=tvone&key=true
 
 #EXTINF:-1 tvg-logo="http://materiales.coam.org/media/Default%20Files/microsites/materiales/imgs/2020/RECOMIENDA/LOGOS/BTV%20LOGO.png" group-title="BERITA",BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8?checkedby:iptvcat.org
@@ -101,6 +97,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png" group-title="NASIONAL",GTV 
 https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#EXTINF:-1 group-title="NASIONAL", Garuda TV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://perkoro.suwalbolong.workers.dev/index.m3u8?id=garudatv&key=true
 
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png" group-title="BERITA",INEWS (R+)
@@ -165,9 +165,7 @@ https://dko29we9nm1rd.cloudfront.net/hls/CH115/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="MOVIES",HBO TW
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hbohd_twn/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="MOVIES",HBO Family
-http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Hbofamily/playlist.m3u8
- 
+
 #KOREA
 #EXTINF:-1 tvg-logo="https://wiki.edunitas.com/_sepakbola/_baca_image.php?td=21&kodegb=250px-KBS_.png" group-title="KOREA", KBS Korea
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -772,7 +770,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/m
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
-#EXTINF:-1 group-title="SPORTS"  tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",NBC Sport
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737",NBC Sport
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1064,16 +1062,21 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ftvhd_taiwan/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="TAIWAN", 民視 
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/%E6%B0%91%E8%A6%96%E7%AC%AC%E4%B8%80%E5%8F%B0.png" group-title="TAIWAN", 民視第一台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
+https://www.insurancegogogo.com/4987/ftvhd_taiwan/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi TW
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/sanlitaiwan/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sanlih_E-Television_logo.png" group-title="TAIWAN",SETi Asia
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi TW (B)
+https://www.insurancegogogo.com/4987/sanlitaiwan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sanlih_E-Television_logo.png" group-title="TAIWAN",SETi Xiju
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/sanlixiju_twn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sanlih_E-Television_logo.png" group-title="TAIWAN",SETi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sanlih_E-Television_logo.png" group-title="TAIWAN",SETi Xiju (B)
+https://www.insurancegogogo.com/4987/sanlixiju_twn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sanlih_E-Television_logo.png" group-title="TAIWAN",SETi Zonghe
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-6/AKTV.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sanlih_E-Television_logo.png" group-title="TAIWAN",SETi Zonghe (B)
+https://www.insurancegogogo.com/4987/sanlizhonghe/playlist.m3u8
 
 #EXTINF:-1 group-title="TAIWAN" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/TVBS_News.png/revision/latest/scale-to-width-down/405?cb=20230413120549&path-prefix=vi", TVBS News 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1229,4 +1232,4 @@ https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
 
 
 
-#EXTM3U billed-msg="LAST UPDATE 25 maret 2025"
+#EXTM3U billed-msg="LAST UPDATE 27 maret 2025"
