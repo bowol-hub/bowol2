@@ -1090,10 +1090,10 @@ http://4gtv.mumi.rip:9877/2/4gtv-4gtv001/index.m3u8
 #EXTINF:0 group-title="TAIWAN" tvg-logo="https://i.imgur.com/rwWBdB3.jpeg",A民視影劇台
 http://4gtv.mumi.rip:9877/24/litv-ftv09/index.m3u8
 
-#EXTINF:0 group-title="TAIWAN" tvg-logo="https://i.imgur.com/nqLh2gE.jpg",民視第一台
+#EXTINF:0 group-title="TAIWAN" tvg-logo="https://i.imgur.com/nqLh2gE.jpg",A民視第一台
 http://4gtv.mumi.rip:9877/1/4gtv-4gtv003/index.m3u8
 
-#EXTINF:0 group-title="TAIWAN" tvg-logo="https://i.imgur.com/hLCHHh8.jpeg",民視綜藝台
+#EXTINF:0 group-title="TAIWAN" tvg-logo="https://i.imgur.com/hLCHHh8.jpeg",A民視綜藝台
 http://4gtv.mumi.rip:9877/16/4gtv-4gtv004/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
