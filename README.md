@@ -740,6 +740,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-ab
 #EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/
 https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8
 
+#EXTINF:-1 tvg-logo="https://lo1.in/rom/looksp.png" group-title="LIGA INGGR1S",UEFA-RO| PRIMA SPORT HD
+http://extraott.com:900/live/3162523972/3791698850/401338291.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/bein2.png" group-title="SPORTS",Bein 2 
 #EXTVLCOPT:http-referrer=https://fw4free.com/ 
 https://fw4free.inwstream.com/fw4free/bein2.stream/playlist.m3u8 
@@ -753,9 +756,10 @@ https://fw4free.inwstream.com/fw4free/bein3.stream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=112&type=drm 
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd 
 
-#EXTINF:-1 tvg-name="" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/sportstar2.png", SPORTSTAR 2 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/sportstar2.png", SPORT STAR 2 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=113&type=drm 
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd 
+https://d1d2sbhidw0n3y.cloudfront.net/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index.m3u8 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/truepre2.png" group-title="LIGA INGGR1S",EPL 
 #EXTVLCOPT:http-referrer=https://fw4free.com/ 
