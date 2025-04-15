@@ -160,25 +160,40 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="MOVIES",HBO TW
-http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hbohd_twn/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} #KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5 
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.imgur.com/bmu95rl.png" group-title="MOVIES" ,HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd|referrer=https://www.cubmu.com/
+ 
+ 
+#EXTINF:-1 group-title="MOVIES" tvg-id="hbohitsasia.sg" tvg-logo="https://i.imgur.com/QNb95ny.png",HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/cinemax.png" group-title="MOVIES",Cinemax https://cdnjkt913.transvision.co.id:1003/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd 
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} #KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/hbo.png" group-title="MOVIES",HBO https://cdnjkt913.transvision.co.id:1003/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd 
-
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd|referrer=https://www.cubmu.com/
+ 
+ 
+#EXTINF:-1 group-title="MOVIES" tvg-id="hbofamilyasia.sg" tvg-logo="https://i.imgur.com/blc5m9H.png",HBO Family
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd|https://www.cubmu.com/
+ 
+ 
+#EXTINF:-1 group-title="MOVIES" tvg-id="hbosignatureasia.sg" tvg-logo="https://i.imgur.com/m3gWvxl.png",HBO Signature
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd|referrer=https://www.cubmu.com/
+ 
+ 
+#EXTINF:-1 group-title="MOVIES" tvg-id="cinemaxasia.sg" tvg-logo="https://i.imgur.com/DPbh0e7.png",CINEMAX 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd|referrer=https://www.cubmu.com/
 
 #KOREA
 #EXTINF:-1 tvg-logo="https://wiki.edunitas.com/_sepakbola/_baca_image.php?td=21&kodegb=250px-KBS_.png" group-title="KOREA", KBS Korea
@@ -753,28 +768,19 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar-avc1_1000000=4.m3u8
 
-#EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch_hQLLUH6FRA-f05CTt3fkCvV9pUaPkSG6-iCXgE7RLHg.png" group-title="SPORTS",TIMNAS RCTI HD
-http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/400200742.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="SPORTS",TIMNAS Sportstars 2
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="SPORTS",Sportstars 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sangkatv.xyz/kode/vision/media.php?id=113&type=drm
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vision.2025stviptv.workers.dev/?id=113
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd|referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_169.jpeg?w=1200" group-title="SPORTS",TIMNAS Astro Arena 1
+#EXTINF:-1 tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS",TIMNAS Astro Arena 1
 http://www.geocities.ws/wahyuiptv/AstroArena.m3u8
-#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_169.jpeg?w=1200" group-title="SPORTS",TIMNAS Astro Arena 2
+#EXTINF:-1 tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS",TIMNAS Astro Arena 2
 http://www.geocities.ws/wahyuiptv/AstroArena2.m3u8
-#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_169.jpeg?w=1200" group-title="SPORTS",TIMNAS Astro Arena Bola 1
+#EXTINF:-1 tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS",TIMNAS Astro Arena Bola 1
 http://www.geocities.ws/wahyuiptv/AstroArenaBola1.m3u8
-#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_169.jpeg?w=1200" group-title="SPORTS",TIMNAS Astro Arena Bola 2
+#EXTINF:-1 tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS",TIMNAS Astro Arena Bola 2
 http://www.geocities.ws/wahyuiptv/AstroArenaBola2.m3u8
-#EXTINF:-1 tvg-id="astroarena.my" tvg-name="MY| ASTRO ARENA HD" tvg-logo="https://lo1.in/MALAY/astroar.png" group-title="SPORTS",TIMNAS ASTRO ARENA HD
-http://extraott.com:900/live/3162523972/3791698850/191853.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO ARENA 2 HD" tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS",TIMNAS ASTRO ARENA 2 HD
-http://extraott.com:900/live/3162523972/3791698850/185822.m3u8
-
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/qUYLcS8.png" group-title="SPORTS",Sportstars 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
