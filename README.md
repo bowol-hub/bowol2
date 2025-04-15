@@ -489,7 +489,7 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockentertainment.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b9c123fbf587e6524b2706bd960c7f67:d2aaac6845b33627cdce1272feac5acc
-#EXTINF:-1 tvg-logo="https://iili.io/JZIC3x9.png" group-title="Entertainment", Rock Action
+#EXTINF:-1 tvg-logo="https://iili.io/JZIC3x9.png" group-title="MOVIES 3", Rock Action
 https://d1abp075u76pbq.cloudfront.net/live/eds/Rockaction/sa_dash/Rockaction.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -499,7 +499,7 @@ http://cdn.nng.cloudns.us/live/m3u8/Mov/6dbd87da999998d.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-logo="https://iili.io/JZICKiu.png" group-title="Entertainment", Rock Entertainment
+#EXTINF:-1 tvg-logo="https://iili.io/JZICKiu.png" group-title="MOVIES 3", Rock Entertainment
 https://d1abp075u76pbq.cloudfront.net/live/eds/Rockentertainment/sa_dash/Rockentertainment.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -559,12 +559,6 @@ https://atemecdnbalancer-voe.sysln.idlive/eds/AnhuiTV/mpd/AnhuiTV.mpd|user-agent
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd22058fcb94e3790660d256655663b:cacc2086a1ac693d6173084b942e751d
 https://atemeshield1-voe.sysln.id/live/eds/HunanTV/mpd/HunanTV.mpd
-
-#EXTINF:-1 group-title="CHINESE" tvg-logo="https://www.visionplus.id/images/repository/853/853-LOGO-m.png",Hunan TV2
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dd22058fcb94e3790660d256655663b:cacc2086a1ac693d6173084b942e751d
-http://cdn.nng.cloudns.us/live/m3u8/id/b630a001384603f.m3u8
 
 #EXTINF:-1 group-title="4K CHANNEL",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
@@ -903,25 +897,28 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://absatellite.com/wp-content/uploads/outdoor_channel_hd.png",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/Jmo9aXn.png" group-title="MOVIES 3",Galaxy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
- 
-#EXTINF:-1 tvg-logo="https://iili.io/Jmo9YzX.png" group-title="MOVIES 3",Galaxy Premium
+#EXTINF:-1 tvg-logo="https://iili.io/Jmo9aXn.png" group-title="MOVIES 3", Galaxy
+http://cempedak-cdn-fly.mncnow.id/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd|Referer=https://www.visionplus.id
+##https://d1abp075u76pbq.cloudfront.net/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd|Referer=https://www.visionplus.id
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+#EXTINF:-1 tvg-logo="https://iili.io/Jmo9YzX.png" group-title="MOVIES 3", Galaxy Premium
+http://cempedak-cdn-fly.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd|Referer=https://www.visionplus.id
+##https://d1abp075u76pbq.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd|Referer=https://www.visionplus.id
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OjVzvfx.png?v=1.0.0.1" group-title="MOVIES 3", Zee Bioskop
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856fd0d66d0170334acaa90393/manifest.mpd
  
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9e7df70530006bef067327cefde82c0e:b92b6a2aba522bd9bb2d07cf241e7398
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/615/615-LOGO-m.png" group-title="MOVIES 3",Zee Bioskop 
-https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
 
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="🇸🇬 SINGAPORE",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
