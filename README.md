@@ -1042,25 +1042,6 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 #EXTINF:-1 group-title="CHINESE",Mei Ah Movie HongKong
 http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
 
-#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://www.tvchinese.net/uploads/tv/ftv.jpg",Minshe Formosa 2
-http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ftvhd_taiwan/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="TAIWAN",Minshe Formosa 
-https://www.insurancegogogo.com/4987/ftvhd_taiwan/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi TW
-http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/sanlitaiwan/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi TW (B)
-https://www.insurancegogogo.com/4987/sanlitaiwan/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sanlih_E-Television_logo.png" group-title="TAIWAN",SETi Xiju
-http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/sanlixiju_twn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sanlih_E-Television_logo.png" group-title="TAIWAN",SETi Xiju (B)
-https://www.insurancegogogo.com/4987/sanlixiju_twn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sanlih_E-Television_logo.png" group-title="TAIWAN",SETi Zonghe
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-6/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sanlih_E-Television_logo.png" group-title="TAIWAN",SETi Zonghe (B)
-https://www.insurancegogogo.com/4987/sanlizhonghe/playlist.m3u8
 
 #EXTINF:-1 group-title="TAIWAN" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/TVBS_News.png/revision/latest/scale-to-width-down/405?cb=20230413120549&path-prefix=vi", TVBS News 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1074,26 +1055,51 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSNews/mpd/TVBSNews.mpd
 #KODIPROP:inputstream.adaptive.license_key=f530cf9ab2244fdb935da69d93614188:ccd52f487ef5c2c29869a5b6899397bb
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
 
-#EXTINF:0 group-title="TAIWAN" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg",A民視
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://www.tvchinese.net/uploads/tv/ftv.jpg",Minshe Formosa 2
+http://220.231.144.42:2025/zb.php?id=1467
+
+#EXTINF:0 group-title="TAIWAN" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg",民視
 http://4gtv.mumi.rip:9877/3/4gtv-4gtv002/index.m3u8
-
-#EXTINF:0 group-title="TAIWAN" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg",A民視 2
-https://epg.pw/stream/151d9e43523a82c3a3bdaa1c54b08177028c783cdd72a2fa26442073dd59ffcb.ctv
-
-#EXTINF:0 group-title="TAIWAN" tvg-logo="https://i.imgur.com/0ovGg1P.jpeg",A民視旅遊台
+#EXTINF:0 group-title="TAIWAN" tvg-logo="https://i.imgur.com/0ovGg1P.jpeg",民視旅遊台
 http://4gtv.mumi.rip:9877/61/litv-ftv07/index.m3u8
-
-#EXTINF:0 group-title="TAIWAN" tvg-logo="https://i.imgur.com/LRBVNgI.jpg",A民視台灣台
+#EXTINF:0 group-title="TAIWAN" tvg-logo="https://i.imgur.com/LRBVNgI.jpg",民視台灣台
 http://4gtv.mumi.rip:9877/2/4gtv-4gtv001/index.m3u8
-
-#EXTINF:0 group-title="TAIWAN" tvg-logo="https://i.imgur.com/rwWBdB3.jpeg",A民視影劇台
+#EXTINF:0 group-title="TAIWAN" tvg-logo="https://i.imgur.com/rwWBdB3.jpeg",民視影劇台
 http://4gtv.mumi.rip:9877/24/litv-ftv09/index.m3u8
+#EXTINF:0 group-title="TAIWAN" tvg-logo="https://i.imgur.com/rwWBdB3.jpeg",民視影劇台 (b)
+#EXTVLCOPT:http-user-agent=0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://220.231.144.42:2025/zb.php?id=1471
 
-#EXTINF:0 group-title="TAIWAN" tvg-logo="https://i.imgur.com/nqLh2gE.jpg",A民視第一台
+#EXTINF:0 group-title="TAIWAN" tvg-logo="https://i.imgur.com/nqLh2gE.jpg",民視第一台
 http://4gtv.mumi.rip:9877/1/4gtv-4gtv003/index.m3u8
-
-#EXTINF:0 group-title="TAIWAN" tvg-logo="https://i.imgur.com/hLCHHh8.jpeg",A民視綜藝台
+#EXTINF:0 group-title="TAIWAN" tvg-logo="https://i.imgur.com/nqLh2gE.jpg",民視第一台 (B)
+#EXTVLCOPT:http-user-agent=0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://220.231.144.42:2025/zb.php?id=1468
+#EXTINF:0 group-title="TAIWAN" tvg-logo="https://i.imgur.com/hLCHHh8.jpeg",民視綜藝台
 http://4gtv.mumi.rip:9877/16/4gtv-4gtv004/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi TW
+http://125.227.210.55:8160/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi TW (GG)
+https://www.insurancegogogo.com/4987/sanlitaiwan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vsn-tv.com/wp-content/uploads/2020/01/SET-Taiwan-thumbnail-logo.jpg" group-title="TAIWAN", 三立都会
+http://220.231.144.42:2025/zb.php?id=1522
+#EXTINF:-1 tvg-logo="https://www.vsn-tv.com/wp-content/uploads/2020/01/SET-Taiwan-thumbnail-logo.jpg" group-title="TAIWAN", 三立都会 (GG)
+https://www.insurancegogogo.com/4987/sanlixiju_twn/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN",三立综合-
+http://220.231.144.42:2025/zb.php?id=1523
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN",三立戏剧 (GG)
+https://www.insurancegogogo.com/4987/sanlizhonghe/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN",三立戏剧
+http://220.231.144.42:2025/zb.php?id=1525
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN",三立国际台
+http://220.231.144.42:2025/zb.php?id=1528
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN", 三立国际台 (2)
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/setinternational.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN", Astro Hua Hee Dai
+http://220.231.144.42:2025/zb.php?id=1347
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pf52vijXcYHphDqHzaRrOaPL74G.jpg",Folk tales of Chu Maxian (2025)
