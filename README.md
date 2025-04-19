@@ -976,6 +976,11 @@ https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.m
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://speedtrademarket.com/live/logo/mewatch_logo.png",SPORT 2 (SGP)
 https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
 
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYyz5WFKlLpa09RwgWy-ABblXwdAg_wbQiJs3AymVdgiedS5AKVDjKlo&s=10" group-title="SPORTS", BRI LIGA 1
+http://xtv.ooo:8080/live/387546/200900/350972.ts
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdw91SspNMbWwJC8BYCGVct5lmLjEkIPZQgm9dsmVic7S7n6MhUcH6Cb5U&s=10" group-title="SPORTS",MOJI PROLIGA
+http://xtv.ooo:8080/live/387546/200900/350997.ts
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
@@ -1055,6 +1060,17 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSNews/mpd/TVBSNews.mpd
 #KODIPROP:inputstream.adaptive.license_key=f530cf9ab2244fdb935da69d93614188:ccd52f487ef5c2c29869a5b6899397bb
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
 
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://i.imgur.com/oHWQfIF.png", DAAI TV
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/daai%20tv.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://i.imgur.com/oHWQfIF.png", DAAI TV (2)
+http://cempedak-cdn-fly.mncnow.id/live/eds/DAAITV/sa_dash/DAAITV.mpd
+
 #EXTINF:-1 group-title="TAIWAN" tvg-logo="https://www.tvchinese.net/uploads/tv/ftv.jpg",Minshe Formosa 2
 http://220.231.144.42:2025/zb.php?id=1467
 
@@ -1102,10 +1118,6 @@ http://220.231.144.42:2025/zb.php?id=1347
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pf52vijXcYHphDqHzaRrOaPL74G.jpg",Folk tales of Chu Maxian (2025)
-https://stream.hownetwork.xyz/xxx/folk-tales-of-chu-maxian-2025-webdl_X_6ae2fca8/28/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8qJfjFhNwpTONNAoE6gUSx2yGpg.jpg",Ad Vitam (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/06/Ad.Vitam.2025.mp4/tracks-v1a1/mono.m3u8
 
@@ -1116,11 +1128,6 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/05/Evil.of.The
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",The Love Scam (2025)
 https://seneng.org/v/driveid-194546-webrip-1080-terbit21-com-the-love-scam-2024.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xk3QO80M60BMLda6WKvNrlVhu66.jpg",Sentinel (2024)
-https://stream.hownetwork.xyz/xxx/sentinel-2024-bluray_X_18993f95/28/480.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wtuxWiMjjInUEDPMgZYQxzw1rRg.jpg",Invasive (2024)
@@ -1134,7 +1141,6 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/09/Bloody.Axe.
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3JDjWR8TgIuPDw1R7aoepL43CPx.jpg",Teasing Master Takagi-san Movie (2024)
-https://stream.hownetwork.xyz/xxx/teasing-master-takagi-san-movie-2024-bluray_X_03212fae/28/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/09/Teasing.Master.Takagisan.Movie.2024.mp4/tracks-v1a1/mono.m3u8
 
 
@@ -1145,11 +1151,6 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/09/Saturday.Ni
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7hloUkIXB1Jc0xjSFlO4dcVfzdt.jpg",The Death That Awaits (2024)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/09/The.Death.That.Awaits.2024.mp4/tracks-v1a1/mono.m3u8
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6214Uk9CZZcIibI84o5DEtbhfyk.jpg",Beautiful Wedding (2024)
-https://stream.hownetwork.xyz/xxx/beautiful-wedding-2024-bluray_X_7f6f0763/28/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6aFsJeeJKJ7JDsTuB5rLmMoAbRW.jpg",Singing in My Sleep (2024)
@@ -1165,15 +1166,9 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/07/How.to.Make
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/j8Wjcgu6xWTLl21ACG8ufWnX5Fz.jpg",In Her Likeness (2024)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/07/In.Her.Likeness.2024.mp4/tracks-v1a1/mono.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1RGlo5tg3iF6VMcyMNZlpx8Wwkn.jpg",The New Year That Never Came (2024)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/07/The.New.Year.That.Never.Came.2024.mp4/tracks-v1a1/mono.m3u8
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aosm8NMQ3UyoBVpSxyimorCQykC.jpg",Venom  The Last Dance (2024)
-https://stream.hownetwork.xyz/xxx/venom-the-last-dance-2024-bluray_X_3e5433d3/28/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2025/01/film-touch-2024-lk21-d21.jpg.webp",Touch (2024)
@@ -1241,7 +1236,7 @@ https://d2n1ucuifwse4q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="golfchannel.my" tvg-name="MY| GOLF CHANNEL HD" tvg-logo="https://lo1.in/MALAY/glfch.png" group-title="SPORT-Golf",MY| GOLF CHANNEL HD
+#EXTINF:-1 tvg-logo="https://lo1.in/MALAY/glfch.png" group-title="SPORT-Golf",GOLF CHANNEL HD
 http://extraott.com:900/live/3162523972/3791698850/191942.m3u8
 
 #EXTINF:-1 group-title="SPORT-Golf" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", PGA Tour
@@ -1250,7 +1245,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa2
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000018O9_20230426T013650SQUARE.png_20230426013651.png" group-title="SPORT-Golf" , Golf SBS
 https://d2onj944t92pwq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-70fxr8r2oets2/FC00000018.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 tvg-logo="https://lo1.in/uk/FOX SPORTS.png" group-title="SPORT-Golf",UK| FOX SPORTS 503 HD
+#EXTINF:-1 tvg-logo="https://lo1.in/uk/FOX SPORTS.png" group-title="SPORT-Golf",FOX SPORTS 503 HD
 http://extraott.com:900/live/3162523972/3791698850/42048.m3u8
 
 #EXTINF:0 group-title="SPORT-Golf" tvg-logo="https://i.etsystatic.com/42181717/r/il/4fccdb/5940644976/il_570xN.5940644976_svc3.jpg" ,GOLF taiwan 1
