@@ -51,17 +51,17 @@ http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pThdSD7.png" group-title="RCTI+",RCTI 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pThdSD7.png" group-title="NASIONAL",RCTI 
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bRgrQGI.png" group-title="RCTI+",GTV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRgrQGI.png" group-title="NASIONAL",GTV 
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FHFe1c2.png" group-title="RCTI+",MNCTV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FHFe1c2.png" group-title="NASIONAL",MNCTV 
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #EXTINF:-1 group-title="NASIONAL", Garuda TV
@@ -332,13 +332,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD
 #KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
 https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
 
-#EXTINF:-1 group-title="KNOWLEDGE tvg-logo="https://i.imgur.com/j5MyKCl.png",Crime + Investigation
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.imgur.com/j5MyKCl.png",Crime + Investigation
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/CrimeInvestigation/sa_dash/CrimeInvestigation.mpd
 
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="Discovery Channel" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="KNOWLEDGE",Discovery Channel 
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="KNOWLEDGE",Discovery Channel 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
@@ -981,6 +981,19 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-ab
 #EXTINF:-1 group-title="SPORT-Golf" tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737",NBC Sport
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
 
+#EXTINF:-1 group-title="SPORT-Golf" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", PGA Tour
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000018O9_20230426T013650SQUARE.png_20230426013651.png" group-title="SPORT-Golf" , Golf SBS
+https://d2onj944t92pwq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-70fxr8r2oets2/FC00000018.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:0 group-title="SPORT-Golf" tvg-logo="https://i.etsystatic.com/42181717/r/il/4fccdb/5940644976/il_570xN.5940644976_svc3.jpg" ,GOLF taiwan 1
+#EXTVLCOPT:http-user-agent=0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://220.231.144.42:2025/zb.php?id=1590
+
+#EXTINF:0 group-title="SPORT-Golf" tvg-logo="https://i.etsystatic.com/42181717/r/il/4fccdb/5940644976/il_570xN.5940644976_svc3.jpg" ,GOLF taiwan 2
+#EXTVLCOPT:http-user-agent=0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+http://220.231.144.42:2025/zb.php?id=1591
 
 //========================================================================
 //Collected menampilkan playlist >>> International
@@ -1119,12 +1132,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/daai%20tv.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://i.imgur.com/oHWQfIF.png", DAAI TV (2)
-http://cempedak-cdn-fly.mncnow.id/live/eds/DAAITV/sa_dash/DAAITV.mpd
-
 #EXTINF:-1 group-title="TAIWAN" tvg-logo="https://www.tvchinese.net/uploads/tv/ftv.jpg",Minshe Formosa 2
 http://220.231.144.42:2025/zb.php?id=1467
 
@@ -1150,17 +1157,13 @@ http://4gtv.mumi.rip:9877/16/4gtv-4gtv004/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi TW
 http://125.227.210.55:8160/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi TW (GG)
-https://www.insurancegogogo.com/4987/sanlitaiwan/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vsn-tv.com/wp-content/uploads/2020/01/SET-Taiwan-thumbnail-logo.jpg" group-title="TAIWAN", 三立都会
 http://220.231.144.42:2025/zb.php?id=1522
-#EXTINF:-1 tvg-logo="https://www.vsn-tv.com/wp-content/uploads/2020/01/SET-Taiwan-thumbnail-logo.jpg" group-title="TAIWAN", 三立都会 (GG)
-https://www.insurancegogogo.com/4987/sanlixiju_twn/playlist.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN",三立综合-
 http://220.231.144.42:2025/zb.php?id=1523
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN",三立戏剧 (GG)
-https://www.insurancegogogo.com/4987/sanlizhonghe/playlist.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN",三立戏剧
 http://220.231.144.42:2025/zb.php?id=1525
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN",三立国际台
@@ -1289,25 +1292,7 @@ https://d2n1ucuifwse4q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:0 group-title="FISHING" ,WIRED 2 FISH
 https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-Golf" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", PGA Tour
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000018O9_20230426T013650SQUARE.png_20230426013651.png" group-title="SPORT-Golf" , Golf SBS
-https://d2onj944t92pwq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-70fxr8r2oets2/FC00000018.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:0 group-title="SPORT-Golf" tvg-logo="https://i.etsystatic.com/42181717/r/il/4fccdb/5940644976/il_570xN.5940644976_svc3.jpg" ,GOLF taiwan 1
-#EXTVLCOPT:http-user-agent=0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://220.231.144.42:2025/zb.php?id=1590
-
-#EXTINF:0 group-title="SPORT-Golf" tvg-logo="https://i.etsystatic.com/42181717/r/il/4fccdb/5940644976/il_570xN.5940644976_svc3.jpg" ,GOLF taiwan 2
-#EXTVLCOPT:http-user-agent=0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-http://220.231.144.42:2025/zb.php?id=1591
-
-#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Golf.png" group-title="SPORT-Golf",Sky Sports Golf
-http://watchindia.net:8880/live/32612/55103/2096.ts
-
-#EXTINF:-1 tvg-logo="https://iili.io/Jhkb4NS.png" group-title="SPORT-Golf",TSN 1
-http://212.102.60.231/TSN_1/index.m3u8
 
 
 #EXTM3U billed-msg="LAST UPDATE 20 april 2025"
