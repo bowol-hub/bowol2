@@ -52,6 +52,11 @@ http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid
 #EXTINF:-1 tvg-logo="https://media.suara.com/suara-partners/deli/thumbs/480x270/2023/09/08/1-rcti.jpg" group-title="NASIONAL",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=1
+#EXTINF:-1 tvg-logo="https://iili.io/JMp36xI.png" group-title="NASIONAL", RCTI IDOL
+https://fta4-cdn-flr.visionplus.id/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OPaUgqx.png" group-title="NASIONAL",GTV
 http://202.147.193.244/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 
@@ -1130,7 +1135,7 @@ http://198.16.100.186:8278/ftvhd_taiwan/playlist.m3u8?tid=ME6E2294929422949294&c
 https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi TW (B)
 http://198.16.100.186:8278/sanlitaiwan/playlist.m3u8?tid=MDAD7410187174101871&ct=20107&tsum=effbf646c9bc456988fb75b252b36881
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi TW (C)
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi TW 
 https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN",SET Xiju
