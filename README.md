@@ -52,14 +52,20 @@ http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid
 #EXTINF:-1 tvg-logo="https://media.suara.com/suara-partners/deli/thumbs/480x270/2023/09/08/1-rcti.jpg" group-title="NASIONAL",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/641/641-LOGO-m.png" group-title="NASIONAL",RCTI Vision Prime 
-http://202.147.193.244/live/eds/VisionPrime/sa_dash/VisionPrime.mpd
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OPaUgqx.png" group-title="NASIONAL",GTV
-http://202.147.193.244/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png" group-title="NASIONAL",GTV
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jOE2D69.png" group-title="NASIONAL",MNCTV
-http://202.147.193.244/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png" group-title="NASIONAL",MNCTV
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X8bZShw.png" group-title="NASIONAL", GARUDA TV
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
@@ -213,11 +219,17 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd|user-agent=Ex
 //========================================================================
 //Collected menampilkan playlist >>> MOVIES 3
 //========================================================================
-#EXTINF:-1 group-title="MOVIES 3" tvg-logo="https://i.imgur.com/PdohVJI.png",Galaxy
-http://202.147.193.244/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=49
+#EXTINF:-1 tvg-id="Galaxy.id" tvg-name="Galaxy" tvg-logo="https://iili.io/Jmo9aXn.png" group-title="MOVIES 3", Galaxy
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2694.ts
+https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
-#EXTINF:-1 group-title="MOVIES 3" tvg-logo="https://i.imgur.com/FbqpsDe.png",Galaxy Premium
-http://202.147.193.244/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=48
+#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium" tvg-logo="https://iili.io/Jmo9YzX.png" group-title="MOVIES 3", Galaxy Premium
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2695.ts
+https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/tvposter/zee.png" group-title="MOVIES 3", ZEE BIOSKOP
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -526,11 +538,20 @@ https://zoomoo-samsungau.amagi.tv/playlist480p.m3u8
 #KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/627/627-LOGO-m.png" group-title="Kids",Nick (V+)
-http://202.147.193.244/live/eds/Nickelodeon/sa_dash/Nickelodeon.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef4d19eafa0d4dcbb6a247e13753caab:a693256564fea641b5c4fc59adbdcf10
+#EXTINF:-1 tvg-logo="https://iili.io/JmoBluj.png" group-title="Kids", Nick
+https://atemecdnbalancer-voe.sysln.id/live/eds/Nickelodeon/mpd/Nickelodeon.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/147/75147-LOGO-m.png" group-title="Kids",Nick Jr (V+)
-http://202.147.193.244/live/eds/NickJr-HDD/sa_dash/NickJr-HDD.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=928de1d7673c4fdd8ff22287fbec3c14:3955eb1e2dd8ac29a778bc572dd64794
+#EXTINF:-1 tvg-logo="https://iili.io/JmoBGnV.png" group-title="Kids", Nick Jr.
+https://atemecdnbalancer-voe.sysln.id/live/eds/NickJr/mpd/NickJr.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmoBGnV.png" group-title="Philippines", Nick JR.
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001215/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://pictr.com/images/2025/02/04/xGzjnr.jpg" group-title="Kids", Dreamwork Tagalog
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
