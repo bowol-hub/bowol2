@@ -173,9 +173,8 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 
-#EXTINF:-1 tvg-logo="https://www.androidheadlines.com/wp-content/uploads/2020/06/HBO-MAX-AH-1-1420x1065.webp" group-title="MOVIES",HBO SD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/26595.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="MOVIES", HBO Signature
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2709.ts
 
 #EXTINF:-1 tvg-logo="https://c.dlnws.com/image/upload/c_limit,f_auto,q_auto,w_1800/v1503592425/Blog/HBO_2.jpg" group-title="MOVIES",HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -234,25 +233,22 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd|user-agent=Ex
 //========================================================================
 //Collected menampilkan playlist >>> MOVIES 3
 //========================================================================
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=49
+
 #EXTINF:-1 tvg-logo="https://iili.io/Jmo9aXn.png" group-title="MOVIES 3", Galaxy
-https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2694.ts
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2694.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=49
 #EXTINF:-1 tvg-logo="https://iili.io/Jmo9aXn.png" group-title="MOVIES 3", Galaxy (B)
 https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=48
+
 #EXTINF:-1 tvg-logo="https://iili.io/Jmo9YzX.png" group-title="MOVIES 3", Galaxy Premium
-https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2695.ts
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2695.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=48
 #EXTINF:-1 tvg-logo="https://iili.io/Jmo9YzX.png" group-title="MOVIES 3", Galaxy Premium (B)
-https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2695.ts
 https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/tvposter/zee.png" group-title="MOVIES 3", ZEE BIOSKOP
