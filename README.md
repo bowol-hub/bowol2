@@ -245,22 +245,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd|user-agent=Ex
 //Collected menampilkan playlist >>> MOVIES 3
 //========================================================================
 
-#EXTINF:-1 tvg-logo="https://iili.io/Jmo9aXn.png" group-title="MOVIES 3", Galaxy
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2694.ts
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=49
-#EXTINF:-1 tvg-logo="https://iili.io/Jmo9aXn.png" group-title="MOVIES 3", Galaxy (B)
-https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-
-
-#EXTINF:-1 tvg-logo="https://iili.io/Jmo9YzX.png" group-title="MOVIES 3", Galaxy Premium
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2695.ts
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=48
-#EXTINF:-1 tvg-logo="https://iili.io/Jmo9YzX.png" group-title="MOVIES 3", Galaxy Premium (B)
-https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/tvposter/zee.png" group-title="MOVIES 3", ZEE BIOSKOP
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -524,9 +508,6 @@ http://198.16.100.186:8278/cctv5/playlist.m3u8?tid=MEFE1484354714843547&ct=20107
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/92fmBl6.png",CCTV5+
 http://198.16.100.186:8278/cctv5plus/playlist.m3u8?tid=MB8B3193831131938311&ct=20107&tsum=38ac2fb322882fb38cde82bfce75104e
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png", TIMNAS GTV
-https://smart.pendy.dpdns.org/Smart.php?id=Gtv
-
 #EXTINF:-1 tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS",TIMNAS Astro Arena 1
 http://hotz.vip:2082/GM29/Glidermedia01/167
 #EXTINF:-1 tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS",TIMNAS Astro Arena 1 (B)
@@ -538,12 +519,21 @@ https://smart.pendy.dpdns.org/Smart.php?id=Arena2
 #EXTINF:-1 tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS",TIMNAS Astro Arena Bola
 https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena1
 
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS",TIMNAS Bein1
+http://het116a.4rouwanda-shop.store/live/918454578001/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS",TIMNAS Bein2
+http://het102a.4rouwanda-shop.store/live/69854211/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS",TIMNAS Bein3
+http://bdd78.4rouwanda-shop.store/live/645587700/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS",TIMNAS Bein4
+http://het111a.4rouwanda-shop.store/live/0103088447/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS",TIMNAS Bein5
+http://bdd78.4rouwanda-shop.store/live/610303030/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS",TIMNAS Bein6
+http://bdd78.4rouwanda-shop.store/live/1515000000/index.m3u8?t=HzA5wfyyXqwTdMUSZQqu_A&e=1748513199
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static02.astro.com.my/astro/media/11oct2018/articles/astro-corp-logo.png",Badminton
 http://hotz.vip:2082/GM29/Glidermedia01/978
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static02.astro.com.my/astro/media/11oct2018/articles/astro-corp-logo.png",Badminton (B)
-https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static02.astro.com.my/astro/media/11oct2018/articles/astro-corp-logo.png",Badminton 2
-http://hotz.vip:2082/GM29/Glidermedia01/9841
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static02.astro.com.my/astro/media/11oct2018/articles/astro-corp-logo.png",Badminton 2 (B)
 https://smart.pendy.dpdns.org/Smart.php?id=go_badminton2
 
@@ -1130,8 +1120,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #KODIPROP:inputstream.adaptive.license_key=f36eed9e95f140fabbc88a08abbeafff:0125600d0eb13359c28bdab4a2ebe75a
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd  
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="NBA", EN BEIN SPORTS 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinen1.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="NBA", BEIN SPORTS 1 HD
+http://bdd78.4rouwanda-shop.store/live/918454578001/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="NBA", BEIN SPORTS 1 
+http://het115a.4rouwanda-shop.store/live/978480008877005/index.m3u8?t=qTZzQtU-8AD2VEHh4l6lrA&e=1748444054
 
 #EXTINF:-1 group-title="NBA" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",True Sports 1
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
@@ -1144,6 +1137,9 @@ http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2spor
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
+
+#EXTINF:-1 group-title="NBA" tvg-logo="https://i.imgur.com/92fmBl6.png",CCTV5 
+http://198.16.100.186:8278/cctv5/playlist.m3u8?tid=MEFE1484354714843547&ct=20107&tsum=fd504320fedffaa0051d6e0f991efdee
 
 //========================================================================
 //Collected menampilkan playlist >>> TAIWAN
@@ -1179,11 +1175,11 @@ https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN",SET Xiju
 http://198.16.100.186:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN", Astro Hua Hee Dai
-https://smart.pendy.dpdns.org/Smart.php?id=Huahee
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN", SET Zonghe 2
 http://198.16.100.186:8278/sanlizhonghe/playlist.m3u8?tid=MC0C7100513271005132&ct=20107&tsum=ba573914cea71f60558b7fb5f17bdb78
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN", SETi Asia
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/setinternational.m3u8
 
 //========================================================================
 //Collected menampilkan playlist >>> FISHING
@@ -1196,4 +1192,4 @@ https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
 
 
 
-#EXTM3U billed-msg="LAST UPDATE 17 MEI 2025"
+#EXTM3U billed-msg="LAST UPDATE 29 MEI 2025"
