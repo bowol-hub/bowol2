@@ -480,19 +480,19 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2025_Indonesia_National_Football_Team_Badge.png/500px-2025_Indonesia_National_Football_Team_Badge.png",TIMNAS Sportstars 2 (B)
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/sportstar2.png",TIMNAS Sportstars 2 (B)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2025_Indonesia_National_Football_Team_Badge.png/500px-2025_Indonesia_National_Football_Team_Badge.png",TIMNAS Sportstar 2 (C)
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/sportstar2.png",TIMNAS Sportstar 2 (C)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
 https://wp1-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=web
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2025_Indonesia_National_Football_Team_Badge.png/500px-2025_Indonesia_National_Football_Team_Badge.png",TIMNAS (C) 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/sportstar2.png",TIMNAS (C) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
 
@@ -540,32 +540,17 @@ http://198.16.100.186:8278/cctv5/playlist.m3u8?tid=MEFE1484354714843547&ct=20107
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/92fmBl6.png",CCTV5+
 http://198.16.100.186:8278/cctv5plus/playlist.m3u8?tid=MB8B3193831131938311&ct=20107&tsum=38ac2fb322882fb38cde82bfce75104e
 
-#EXTINF:-1 tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS",TIMNAS Astro Arena 1
-http://hotz.vip:2082/GM29/Glidermedia01/167
+
 #EXTINF:-1 tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS",TIMNAS Astro Arena 1 (B)
 https://smart.pendy.dpdns.org/Smart.php?id=Arena
-#EXTINF:-1 tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS",TIMNAS Astro Arena 2
-http://hotz.vip:2082/GM29/Glidermedia01/169
 #EXTINF:-1 tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS",TIMNAS Astro Arena 2 (B)
 https://smart.pendy.dpdns.org/Smart.php?id=Arena2
 #EXTINF:-1 tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS",TIMNAS Astro Arena Bola
 https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena1
 
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS",TIMNAS Bein 1
-http://het116a.4rouwanda-shop.store/live/918454578001/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS",TIMNAS Bein 2
-http://het102a.4rouwanda-shop.store/live/69854211/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS",TIMNAS Bein 3
-http://bdd78.4rouwanda-shop.store/live/645587700/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS",TIMNAS Bein 4
-http://het111a.4rouwanda-shop.store/live/0103088447/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS",TIMNAS Bein 5
-http://bdd78.4rouwanda-shop.store/live/610303030/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS",TIMNAS Bein 6
-http://bdd78.4rouwanda-shop.store/live/1515000000/index.m3u8?t=HzA5wfyyXqwTdMUSZQqu_A&e=1748513199
+https://wo.cma.footballii.ir/hls2/b3_src.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static02.astro.com.my/astro/media/11oct2018/articles/astro-corp-logo.png",Badminton
-http://hotz.vip:2082/GM29/Glidermedia01/978
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static02.astro.com.my/astro/media/11oct2018/articles/astro-corp-logo.png",Badminton 2 (B)
 https://smart.pendy.dpdns.org/Smart.php?id=go_badminton2
 
