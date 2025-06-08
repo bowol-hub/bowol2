@@ -1141,30 +1141,36 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSNews/mpd/TVBSNews.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
 
 #EXTINF:-1 group-title="TAIWAN" tvg-logo="https://i.imgur.com/oHWQfIF.png", DAAI TV
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/daai%20tv.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DAAI_TV_2.m3u8
+https://smart.pendy.dpdns.org/Smart.php?id=DaaiTV
 
 #EXTINF:0 group-title="TAIWAN" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg",民視
 http://198.16.100.186:8278/ftvhd_taiwan/playlist.m3u8?tid=ME6E2294929422949294&ct=20107&tsum=92a2f9c4476423b5cc6410c33f5a7193
 #EXTINF:0 group-title="TAIWAN" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg",民視 (2)
 https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
-#EXTINF:0 group-title="TAIWAN" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg",民視 RTMP
-rtmp://f13h.mine.nu/sat/tv051
 #EXTINF:0 group-title="TAIWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4b/Taiwan_Television_logo.png",TTV
 rtmp://f13h.mine.nu/sat/tv071
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi TW (C)
-https://stream1.freetv.fun/san-li-tai-wan---1-1.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi TW 
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",Astro Hua Hee Dai (2)
+https://smt.1789.dpdns.org/smt3.2.1.php?id=Huahee
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi TW
+http://smt.iktv.ddns-ip.net/Smart.php?id=sanlitaiwan
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi TW (2)
 https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN",SET Xiju
-https://stream1.freetv.fun/san-li-xi-ju---1-1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN", SET Zonghe 
-https://stream1.freetv.fun/san-li-zong-he---1-1.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN", SETi Asia
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/setinternational.m3u8
+http://198.16.100.186:8278/sanlixiju_twn/playlist.m3u8?tid=MF1F6146920661469206&ct=20107&tsum=751ac9204f65803d6312a2d53f4692e9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN", SET Zonghe
+http://198.16.100.186:8278/sanlizhonghe/playlist.m3u8?tid=MC0C7100513271005132&ct=20107&tsum=ba573914cea71f60558b7fb5f17bdb78
+
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png",TVBS-Asia
+http://smt.iktv.ddns-ip.net/Smart.php?id=Tvbasia
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntd-tv-us.png" group-title="TAIWAN",NTD
+http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5iL8RQlR1uwjlXQuWtz7469jeUzKGCgecpA&s" group-title="TAIWAN",WXTV
+http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+
 
 //========================================================================
 //Collected menampilkan playlist >>> FISHING
